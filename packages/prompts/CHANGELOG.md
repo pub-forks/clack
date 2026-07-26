@@ -1,5 +1,11 @@
 # @clack/prompts
 
+## 1.7.1
+
+### Patch Changes
+
+- [#588](https://github.com/bombshell-dev/clack/pull/588) [`6506135`](https://github.com/bombshell-dev/clack/commit/65061353e65e468035d8d8c7de9359926774626d) Thanks [@danielroe](https://github.com/danielroe)! - Style the guide bar rendered by `box({ withGuide: true })` in grey so it matches the gutter drawn by `log`, `note` and the spinner
+
 ## 1.7.0
 
 ### Minor Changes
